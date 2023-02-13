@@ -43,4 +43,8 @@ $ yarn start
 
 ## App
 
-![alt text](https://github.com/yassminediab/event-management-system-backend/blob/main/assets/Screen%20Shot%202023-02-14%20at%201.16.43%20AM.png?raw=true)
+![alt text](https://github.com/yassminediab/event-management-system-frontend/blob/main/public/assets/Screen%20Shot%202023-02-14%20at%201.27.43%20AM.png?raw=true)
+![alt text](https://github.com/yassminediab/event-management-system-frontend/blob/main/public/assets/Screen%20Shot%202023-02-14%20at%201.29.37%20AM.png?raw=true)
+![alt text](https://github.com/yassminediab/event-management-system-frontend/blob/main/public/assets/Screen%20Shot%202023-02-14%20at%201.29.42%20AM.png?raw=true)
+![alt text](https://github.com/yassminediab/event-management-system-frontend/blob/main/public/assets/Screen%20Shot%202023-02-14%20at%201.29.42%20AM.png?raw=true)
+![alt text](https://github.com/yassminediab/event-management-system-frontend/blob/main/public/assets/Screen%20Shot%202023-02-14%20at%201.29.58%20AM.png?raw=true)
